@@ -1,0 +1,17 @@
+What kind of songs Do You want to Hear?
+happy calm sad anxious energitic fear Neutral
+
+hi?
+Sorry I cant understand you I am learning.Type the options to get stared.What can I do for you?
+
+Introduce Yourself?
+Hi I am AI based music Recommendation chat bot developed by upbeat team 
+
+happy?
+<a href="https://open.spotify.com/track/6KKglhaToTkDy4fVaZL6js?si=AmvM_GHHSdu1h81Suc30vg&utm_source=whatsapp&nd=1">click for happy song</a>
+
+sad?
+<a href="https://open.spotify.com/track/3OLSAKydzwcnoeIaSxa1O4?si=UG9QgNFwTXSdjpZrFxJmbw&utm_source=whatsapp&nd=1">click for sad song</a>
+
+calm?
+<a href="https://open.spotify.com/track/6KKglhaToTkDy4fVaZL6js?si=AmvM_GHHSdu1h81Suc30vg&utm_source=whatsapp&nd=1">click for calm song</a>
