@@ -1,4 +1,4 @@
-# Upbeat-Song-Recommender-Chatbot Under The Guidance Of CMRCET CSE HOD And Associate Professor-DR.Siva Skandha
+# Upbeat-Song-Recommender-Chatbot Under The Guidance Of CMRCET CSE HOD And Associate Professor-Dr.S.Siva Skandha
 
 # For Linux
 
